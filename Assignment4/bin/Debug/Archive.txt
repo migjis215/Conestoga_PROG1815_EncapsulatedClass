@@ -1,0 +1,17 @@
+1	Womens Cuts	Hair is shaped and texturized to deliver the desired look and enhance face shape and highlight features. 
+Includes shampoo, scalp massage, cut and blowdry style.	50	40	True
+2	Men's Cuts	Includes shampoo, scalp massage, cut and style.	35	30	True
+3	All Over Color	A solid tone is painted from root to tip. 
+Includes blowdry style.	80	120	True
+4	Full Foil	Creates dimensional color using foils on the front, crown, and back of the hair. 
+Includes gloss and blowdry style.	115	150	True
+5	Blow Out	After shampoo and scalp massage, stylist creates a beautiful finish with blowdryer and brush. Use of hot tools is priced as an add-on.	30	15	True
+6	Deep Conditioning Treatment	Moisturizing treatment for dry, dull, or frizzy hair. 
+Includes blowdry style when not booked as an add-on service.	45	25	True
+7	Loreal Shampoo - Dry Hair	Whole Blends Legendary Olive Shampoo restores softness and shine
+Formula blended with virgin pressed Olive Oil known to smooth and olive leaf extract known to boost radiance
+Paraben-free and gentle enough for everyday use
+For every blend, there's Whole Blends, hair care blended with purpose	12.5	0	False
+8	Nexxus Moisturizing Conditioner	Repair hair from the inside ; want strong and deeply nourished hair? nexxus humectress ultimate moisture conditioner for dry hair is designed to help rescue and visibly repair dry hair.	25	0	False
+9	Loreal Strong Hold Hairspray	Elnett Satin Extra Strong Hold Hair Spray is a long-lasting, brushable hairspray with a clean, soft finish; Never stiff or crunchy, Elnett controls flyaways, holds curls, and resists humidity all day long	20.68	0	False
+10	111	1112	1	1	True

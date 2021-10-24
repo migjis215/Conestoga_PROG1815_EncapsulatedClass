@@ -1,0 +1,10 @@
+C:\PROG1815\Assignment\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\PROG1815\Assignment\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\PROG1815\Assignment\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\PROG1815\Assignment\Assignment4\Assignment4\obj\Debug\Assignment4.StockMaintenance.resources
+C:\PROG1815\Assignment\Assignment4\Assignment4\obj\Debug\Assignment4.Properties.Resources.resources
+C:\PROG1815\Assignment\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.GenerateResource.cache
+C:\PROG1815\Assignment\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\PROG1815\Assignment\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\PROG1815\Assignment\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
+C:\PROG1815\Assignment\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.AssemblyReference.cache
